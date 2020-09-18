@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZEEPSYN SITE"
+title                    : "BANGA SYPCHO SITE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BANGA SYPCHO JUNDA"
-description              : "An amazing website."
+description              : "An amazing website~~! :-D"
 url                      : "https://zeepsyn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
